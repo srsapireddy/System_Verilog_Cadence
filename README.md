@@ -1,5 +1,5 @@
 # System_Verilog_Cadence
-## 1 Modeling a Simple Register
+## 1.Modeling a Simple Register
 
 ![image](https://github.com/srsapireddy/System_Verilog_Cadence/assets/32967087/1d383bf5-0575-42dc-b981-b3edffb7bb0f)
 
