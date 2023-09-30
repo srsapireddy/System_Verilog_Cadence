@@ -87,6 +87,7 @@ endmodule
 
 ```
 ### Output
+![image](https://github.com/srsapireddy/System_Verilog_Cadence/assets/32967087/2c06ea95-d283-40a4-8370-5c0f4ce70ad3)
 
 
 
