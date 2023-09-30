@@ -85,9 +85,27 @@ always_comb
 endmodule
 
 ```
+
 ### Output
 ![image](https://github.com/srsapireddy/System_Verilog_Cadence/assets/32967087/2c06ea95-d283-40a4-8370-5c0f4ce70ad3)
 
+## 3. Modeling a Simple Counter
+![image](https://github.com/srsapireddy/System_Verilog_Cadence/assets/32967087/a4553a5c-fbf4-4536-982b-c9bd556c15b8)
+
+Specification
+- data and count are both 5-bit logic vectors.
+- rst_ is asynchronous and active low.
+- The counter is clocked on the rising edge of clk.
+- If load is high, the counter is loaded from the input data.
+- Otherwise, if enable is high, count is incremented.
+- Otherwise, count is unchanged.
+
+### Code
+```
+
+```
+
+## Output
 
 
 
