@@ -52,7 +52,6 @@ Specification
 ### Code
 ```
 ///////////////////////////////////////////////////////////////////////////
-// (c) Copyright 2013 Cadence Design Systems, Inc. All Rights Reserved.
 //
 // File name   : scale_mux.sv
 // Title       : MUX Module
